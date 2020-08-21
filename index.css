@@ -1,0 +1,51 @@
+.container{
+    background-color: #EFE7DB;
+    color: white;
+}
+
+.logo{
+    padding-left: 15px;
+    font-family: 'Gugi', cursive !important;
+    font-size: 1.8em !important;
+}
+
+.row{
+    padding-bottom: 30px;
+}
+
+.nav-item{
+    margin-left: 60px;
+    font-family: 'Noto Serif KR', serif;
+}
+
+.navbar a{
+    font-size: 1.5em;
+}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.banner{
+    font-family: 'Noto Serif KR', serif;
+    
+}
+
+.card-sh:hover{
+    box-shadow: 0 0 11px #3F301D; 
+    
+    color: white;
+}
+
+.mar-card{
+    margin: 0 30px 30px 0;
+}
+
+.bg-libr{
+    background-color: #A48F7A;
+}
+.bg-darbr{
+    background-color: #654321;
+}
+
+.txt-libr{
+    color: #A48F7A;
+}
